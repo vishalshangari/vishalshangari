@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Vishal
+
+- [`vishalshangari.com`](https://vishalshangari.com/)
+
+- Try out: [`comparify.io`](https://comparify.io/)
 
 <!--
 **vishalshangari/vishalshangari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
